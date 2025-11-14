@@ -1,0 +1,13 @@
+[
+  {
+    "NameEntity_Name": "Deadlands",
+    "Category": "Nation",
+    "Description": "Many see the Deadlands as a cursed blight that must be avoided, while others view it as a challenge to overcome or an opportunity to exploit. The nations of Sunspire remain divided on whether the Tower of Damnation should be studied, destroyed, or left untouched.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "660,509,1100,885",
+    "Map": "Sunspire"
+  }
+]
