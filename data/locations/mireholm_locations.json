@@ -1,0 +1,57 @@
+[
+  {
+    "NameEntity_Name": "Mireholm: The Beastfolk Swamps",
+    "Category": "Nation",
+    "Description": "Outsiders walk loud, talk too fast. Don’t listen, don’t learn. Some show respect—those, we welcome. Others? Come swingin’ axes, diggin’ holes where they shouldn’t? They find the swamp don’t take kindly to greed.",
+    "Association": "Mireholm: The Beastfolk Swamps (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Mireholm%20The%20Beastfolk%20Swamps%202a00400fbd4581e38cb0cb955eca94c9.md), Gravenhollow (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Gravenhollow%202a00400fbd4580029163efbbea63137e.md), Swamp Alter (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Swamp%20Alter%202a00400fbd45804f991cf39f2347ed2e.md), Swamp (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Swamp%202a00400fbd4580ad949cee19caa84de6.md), Jollow Fang (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Jollow%20Fang%202a00400fbd4580fa9c51c10d06507a2d.md)",
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "580,1160,986,1530",
+    "Map": "Sunspire"
+  },
+  {
+    "NameEntity_Name": "Gravenhollow",
+    "Category": "City",
+    "Description": null,
+    "Association": "Mireholm: The Beastfolk Swamps (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Mireholm%20The%20Beastfolk%20Swamps%202a00400fbd4581e38cb0cb955eca94c9.md), Jollow Fang (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Jollow%20Fang%202a00400fbd4580fa9c51c10d06507a2d.md)",
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": null,
+    "Map": "Mireholm"
+  },
+  {
+    "NameEntity_Name": "Swamp Alter",
+    "Category": "Place",
+    "Description": null,
+    "Association": "Mireholm: The Beastfolk Swamps (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Mireholm%20The%20Beastfolk%20Swamps%202a00400fbd4581e38cb0cb955eca94c9.md), Swamp (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Swamp%202a00400fbd4580ad949cee19caa84de6.md)",
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": null,
+    "Map": "Mireholm"
+  },
+  {
+    "NameEntity_Name": "Swamp",
+    "Category": "Place",
+    "Description": null,
+    "Association": "Mireholm: The Beastfolk Swamps (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Mireholm%20The%20Beastfolk%20Swamps%202a00400fbd4581e38cb0cb955eca94c9.md), Swamp Alter (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Swamp%20Alter%202a00400fbd45804f991cf39f2347ed2e.md)",
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": null,
+    "Map": "Mireholm"
+  },
+  {
+    "NameEntity_Name": "Jollow Fang",
+    "Category": "Place",
+    "Description": null,
+    "Association": "Mireholm: The Beastfolk Swamps (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Mireholm%20The%20Beastfolk%20Swamps%202a00400fbd4581e38cb0cb955eca94c9.md), Gravenhollow (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Gravenhollow%202a00400fbd4580029163efbbea63137e.md)",
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": null,
+    "Map": "Mireholm"
+  }
+]
