@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "The Valerian Crown (The Royal Court)",
+    "Type": "Political",
+    "Current Influence": null,
+    "Methods": "Diplomacy, alliances, political maneuvering",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Iron Guard (The Valerian Military)",
+    "Type": "Military",
+    "Current Influence": null,
+    "Methods": "Military enforcement, strategy, potential coup",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Council of Nobles (The Highborn Houses)",
+    "Type": "Political",
+    "Current Influence": null,
+    "Methods": "Political intrigue, wealth accumulation",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Bureaucracy (The Hidden Power of the State)",
+    "Type": "Government",
+    "Current Influence": null,
+    "Methods": "Administrative control, silent influence",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Arcane Sanctum (Magical Authority)",
+    "Type": "Magic",
+    "Current Influence": null,
+    "Methods": "Arcane research, restricted knowledge, secret rituals",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Valerian Church (Religious Institution)",
+    "Type": "Religious",
+    "Current Influence": null,
+    "Methods": "Religious doctrine, faith-based influence",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Silver Cloaks (The Official Intelligence Agency)",
+    "Type": "Espionage",
+    "Current Influence": null,
+    "Methods": "Covert operations, assassinations, spies",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Magistrate’s Guild (Lawmakers & Enforcers)",
+    "Type": "Legal",
+    "Current Influence": null,
+    "Methods": "Judicial enforcement, trials, punishments",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Valeris Trade Guilds (Merchants, Blacksmiths, Artisans)",
+    "Type": "Economic",
+    "Current Influence": null,
+    "Methods": "Merchant deals, lobbying, monopolies",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Valerian Laborers' Union (The Working Class Movement)",
+    "Type": "Social",
+    "Current Influence": null,
+    "Methods": "Worker strikes, negotiations, underground resistance",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  },
+  {
+    "Name": "The Black Talons (Mercenary Companies)",
+    "Type": "Military",
+    "Current Influence": null,
+    "Methods": "Warfare, contracts, strategic force",
+    "Stories": null,
+    "Description": null,
+    "Date": null
+  }
+]
