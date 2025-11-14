@@ -1,0 +1,101 @@
+[
+  {
+    "NameEntity_Name": "Greenhollow: The Halfling Hills",
+    "Category": "Nation",
+    "Description": "Halflings are naturally curious and welcoming, often forming strong bonds with neighboring nations. They value cooperation and diplomacy but are wary of those who seek to exploit their resources or disrupt their way of life.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "1576,615,2000,1045",
+    "Map": "Sunspire"
+  },
+  {
+    "NameEntity_Name": "Deadlands",
+    "Category": "Nation",
+    "Description": "Many see the Deadlands as a cursed blight that must be avoided, while others view it as a challenge to overcome or an opportunity to exploit. The nations of Sunspire remain divided on whether the Tower of Damnation should be studied, destroyed, or left untouched.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "660,509,1100,885",
+    "Map": "Sunspire"
+  },
+  {
+    "NameEntity_Name": "Xorath’Kul: The Underdark",
+    "Category": "Nation",
+    "Description": "The Underdark views surface dwellers with suspicion but sees value in trade and alliances when it serves their interests.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "857,859,1000,958",
+    "Map": "Sunspire"
+  },
+  {
+    "NameEntity_Name": "Skraggmar: The Goblin Wastelands",
+    "Category": "Nation",
+    "Description": "Bah! Other lands full of big folk who talk too much. They think goblins small, weak. Hah! Goblins listen, goblins learn. Then goblins take. Friends? Maybe... if deal good.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "246,83,923,323",
+    "Map": "Sunspire"
+  },
+  {
+    "NameEntity_Name": "Thra’Zul: The Orcish Badlands",
+    "Category": "Nation",
+    "Description": "Weak fear orcs. Let them. Strength earns respect. Stand firm, orc fight beside you. Show fear, orc tramples you. Treat orc as beast, you find a monster.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "164,292,738,432",
+    "Map": "Sunspire"
+  },
+  {
+    "NameEntity_Name": "Mireholm: The Beastfolk Swamps",
+    "Category": "Nation",
+    "Description": "Outsiders walk loud, talk too fast. Don’t listen, don’t learn. Some show respect—those, we welcome. Others? Come swingin’ axes, diggin’ holes where they shouldn’t? They find the swamp don’t take kindly to greed.",
+    "Association": "Mireholm: The Beastfolk Swamps (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Mireholm%20The%20Beastfolk%20Swamps%202a00400fbd4581e38cb0cb955eca94c9.md), Gravenhollow (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Gravenhollow%202a00400fbd4580029163efbbea63137e.md), Swamp Alter (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Swamp%20Alter%202a00400fbd45804f991cf39f2347ed2e.md), Swamp (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Swamp%202a00400fbd4580ad949cee19caa84de6.md), Jollow Fang (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Jollow%20Fang%202a00400fbd4580fa9c51c10d06507a2d.md)",
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "580,1160,986,1530",
+    "Map": "Sunspire"
+  },
+  {
+    "NameEntity_Name": "Karak Thûl: The Dwarven Mountains",
+    "Category": "Nation",
+    "Description": "Outsiders talk too much, trust too easy. Dwarves think first, act second. Honor the forge, respect hard work? Might earn a place at the table. Think dwarves slow? Good. Gives us time to do things right.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "331,700,460,773",
+    "Map": "Karak Thul"
+  },
+  {
+    "NameEntity_Name": "Sylvara: The Elven Forests",
+    "Category": "Nation",
+    "Description": "Sylvara respects nations that prioritize balance but is wary of those driven by ambition or exploitation. They often serve as quiet observers in global politics.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "121,980,467,1295",
+    "Map": "Sunspire"
+  },
+  {
+    "NameEntity_Name": "Valeria: The Human Kingdom",
+    "Category": "Nation",
+    "Description": "Valeris sees itself as the mediator of Sunspire, often stepping in to resolve disputes or foster cooperation. While respected for its influence, this attitude sometimes breeds resentment.",
+    "Association": "Eldenhold (../DM%20Notes/%F0%9F%94%A7%20Data%20%E2%80%94%20Tracy%20Integration/Lore/Eldenhold%202a00400fbd4581deb571c130c6acf85a.md)",
+    "First_Mention": "1.1 (https://www.notion.so/1-1-2a00400fbd458066ac52e8b0f8ad46c1?pvs=21)",
+    "Related_Session": "1.1 (https://www.notion.so/1-1-2a00400fbd458066ac52e8b0f8ad46c1?pvs=21), 1.2 (https://www.notion.so/1-2-2a00400fbd4580bb8f60e93ef2e3b0f0?pvs=21), 1.3 (https://www.notion.so/1-3-2a00400fbd458050ad9dc6f959edab2d?pvs=21), 1.4 (https://www.notion.so/1-4-2a00400fbd45804498d1e87079d06184?pvs=21), 1.5 (https://www.notion.so/1-5-2a00400fbd45806dae84d51847e07f19?pvs=21), 1.7 (https://www.notion.so/1-7-2a00400fbd4580d4abdefe4f41a4096d?pvs=21)",
+    "Tags": null,
+    "Bounds": "906,1595,1539,2000",
+    "Map": "Valeria"
+  }
+]
