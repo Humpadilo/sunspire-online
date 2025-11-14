@@ -5,6 +5,9 @@
 - `docs/data_model.md` – JSON schemas for locations, NPCs, factions, stories, etc.
 - `docs/file_index.md` – High-level file map for the public repo.
 
+### Location Reference
+- `docs/world_hierarchy.md` – Canonical world → nation → city → site structure. Use these names and IDs when creating or updating location JSON.
+
 In PowerShell:
 
 ```powershell

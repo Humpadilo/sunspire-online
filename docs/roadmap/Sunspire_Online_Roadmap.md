@@ -25,6 +25,8 @@ Your endgame is to build a fully automated knowledge ecosystem powering:
 3.	Lore migration
 4.	Public site
 5.	AI pipeline Workflow
+6.  Ongoing Workflow
+
 
 # 0.3 — Why This Order Works
 You build the home → define the language → move your stuff → decorate → hire AI → write maintenance manual.
@@ -199,7 +201,7 @@ These are for **you and future helpers**, not players.
 * Any future AI, collaborator, or confused future-you can open `/docs/roadmap` and instantly see how everything works and what each step is for.
 
 
-# 1.7 – Update the Root README.md
+# 1.7 – Update the Root README.md- Complete
 
 The root `README.md` should briefly explain:
 
@@ -229,7 +231,7 @@ DM-only content, spoilers, raw notes, and internal tools live in a separate priv
 Keep it short and clear. The detailed process lives in `/docs/roadmap`.
 
 
-# 1.8 – First Commit & Push
+# 1.8 – First Commit & Push- Complete
 
 Once:
 * The folder structure exists
@@ -315,7 +317,7 @@ The rules of the game:
    * Each lore object (location, NPC, faction, story, session, item) is represented as a JSON document under `/data/...`.
 
 2. **One object per file**
-   * One file = one entity.
+   * One file = one entity.- Exemption- nation_locations has all sublocations.
    * Easier to track in Git, easier to load selectively with scripts, easier for AI to reason about.
 
 3. **Stable IDs**

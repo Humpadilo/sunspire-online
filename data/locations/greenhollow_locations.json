@@ -1,0 +1,35 @@
+[
+  {
+    "NameEntity_Name": "Greenhollow: The Halfling Hills",
+    "Category": "Nation",
+    "Description": "Halflings are naturally curious and welcoming, often forming strong bonds with neighboring nations. They value cooperation and diplomacy but are wary of those who seek to exploit their resources or disrupt their way of life.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "1576,615,2000,1045",
+    "Map": "Sunspire",
+    "id": "loc_greenhollow_nation",
+    "type": "location",
+    "name": "Greenhollow",
+    "aliases": [
+      "Greenhollow: The Halfling Hills"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "Halflings are naturally curious and welcoming, often forming strong bonds with neighboring nations. They value cooperation and diplomacy but are wary of those who seek to exploit their resources or disrupt their way of life.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
+  }
+]

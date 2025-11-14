@@ -8,7 +8,29 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": "580,1160,986,1530",
-    "Map": "Sunspire"
+    "Map": "Sunspire",
+    "id": "loc_mireholm_nation",
+    "type": "location",
+    "name": "Mireholm",
+    "aliases": [
+      "Mireholm: The Beastfolk Swamps"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "Outsiders walk loud, talk too fast. Don’t listen, don’t learn. Some show respect—those, we welcome. Others? Come swingin’ axes, diggin’ holes where they shouldn’t? They find the swamp don’t take kindly to greed.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   },
   {
     "NameEntity_Name": "Gravenhollow",
@@ -19,7 +41,27 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": null,
-    "Map": "Mireholm"
+    "Map": "Mireholm",
+    "id": "loc_gravenhollow_city",
+    "type": "location",
+    "name": "Gravenhollow",
+    "aliases": [],
+    "category": "city",
+    "region": "Mireholm",
+    "parent_location_id": "loc_mireholm_nation",
+    "map_id": "Sunspire",
+    "tags": [
+      "city",
+      "player_safe"
+    ],
+    "summary": "",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   },
   {
     "NameEntity_Name": "Swamp Alter",

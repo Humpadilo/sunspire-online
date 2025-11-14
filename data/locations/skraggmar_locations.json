@@ -1,0 +1,35 @@
+[
+  {
+    "NameEntity_Name": "Skraggmar: The Goblin Wastelands",
+    "Category": "Nation",
+    "Description": "Bah! Other lands full of big folk who talk too much. They think goblins small, weak. Hah! Goblins listen, goblins learn. Then goblins take. Friends? Maybe... if deal good.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "246,83,923,323",
+    "Map": "Sunspire",
+    "id": "loc_skraggmar_nation",
+    "type": "location",
+    "name": "Skraggmar",
+    "aliases": [
+      "Skraggmar: The Goblin Wastelands"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "Bah! Other lands full of big folk who talk too much. They think goblins small, weak. Hah! Goblins listen, goblins learn. Then goblins take. Friends? Maybe... if deal good.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
+  }
+]

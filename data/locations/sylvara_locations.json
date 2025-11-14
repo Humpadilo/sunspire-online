@@ -8,9 +8,12 @@
     ],
     "category": "nation",
     "region": "Sunspire World",
-    "parent_location_id": null,
+    "parent_location_id": "loc_sunspire_world",
     "map_id": "Sunspire",
-    "tags": ["nation", "player_safe"],
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
     "summary": "Sylvara is an elven nation that values balance and harmony, watching the ambitions of other powers from the safety of its vast forests.",
     "detail_markdown": "site/pages/locations/sylvara.md",
     "faction_ids": [],
