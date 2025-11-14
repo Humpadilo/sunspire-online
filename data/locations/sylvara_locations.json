@@ -1,0 +1,32 @@
+[
+  {
+    "id": "loc_sylvara_nation",
+    "type": "location",
+    "name": "Sylvara",
+    "aliases": [
+      "Sylvara: The Elven Forests"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": null,
+    "map_id": "Sunspire",
+    "tags": ["nation", "player_safe"],
+    "summary": "Sylvara is an elven nation that values balance and harmony, watching the ambitions of other powers from the safety of its vast forests.",
+    "detail_markdown": "site/pages/locations/sylvara.md",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": [],
+    "NameEntity_Name": "Sylvara: The Elven Forests",
+    "Category": "Nation",
+    "Description": "Sylvara respects nations that prioritize balance but is wary of those driven by ambition or exploitation. They often serve as quiet observers in global politics.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": "121,980,467,1295",
+    "Map": "Sunspire"
+  }
+]
