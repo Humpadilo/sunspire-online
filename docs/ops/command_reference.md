@@ -1,5 +1,10 @@
 ## Step 1: Make the folder & file
 
+## Related Docs
+
+- `docs/data_model.md` – JSON schemas for locations, NPCs, factions, stories, etc.
+- `docs/file_index.md` – High-level file map for the public repo.
+
 In PowerShell:
 
 ```powershell
@@ -143,6 +148,49 @@ From `D:\SunspireOnlinePublic`:
 git add docs\file_index.md docs\ops\command_reference.md
 git commit -m "Update docs for Valeria naming and location split behavior"
 git push
+
+
+### 3.4 Extract list of all nations
+
+Script:
+
+- Path: `D:\Tracy\tools\utilities\extract_world_nations.py`
+- Source: `D:\Tracy\data\notion_json_preview\regions_public.json`
+- Output: `D:\SunspireOnlinePublic\data\locations\world_nations.json`
+
+Run:
+
+```powershell
+cd D:\Tracy
+python tools\utilities\extract_world_nations.py
+
+This file contains one record per nation (Category includes "Nation"), including Valeria, Mireholm, Sylvara, Greenhollow, Deadlands, etc., even if they do not yet have separate location files.
+
+Then commit docs:
+
+```powershell
+cd D:\SunspireOnlinePublic
+git add docs\file_index.md docs\ops\command_reference.md
+git commit -m "Document world_nations.json and nation extraction script"
+git push
+
+### 3.5 Prepare per-nation location files
+
+Script:
+
+- Path: `D:\Tracy\tools\utilities\prepare_nation_location_files.py`
+- Sources:
+  - `D:\Tracy\data\notion_json_preview\regions_public.json`
+  - `D:\SunspireOnlinePublic\data\locations\world_nations.json`
+- Output:
+  - `D:\SunspireOnlinePublic\data\locations/<slug>_locations.json` for each nation
+  - `D:\SunspireOnlinePublic\data\locations/big_titty_demon_island.json`
+
+Run:
+
+```powershell
+cd D:\Tracy
+python tools\utilities\prepare_nation_location_files.py
 
 
 ## 4. Git – Basic Workflow for This Repo
