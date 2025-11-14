@@ -181,7 +181,7 @@ README.md
 Don’t worry about filling these folders yet. Step 1 is just about **creating** the structure so everything has a home.
 
 
-# 1.6 – Add Roadmap & Step Files to `/docs/roadmap`
+# 1.6 – Add Roadmap & Step Files to `/docs/roadmap`- Complete
 
 Inside your public repo:
 
