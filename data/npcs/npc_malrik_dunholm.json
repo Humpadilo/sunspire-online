@@ -1,0 +1,27 @@
+{
+  "id": "npc_malrik_dunholm",
+  "type": "npc",
+  "name": "Malrik Dunholm",
+  "role": "Prison Warden",
+  "status": "alive",
+  "race": "Dwarf",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "dwarf",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "A dwarf male, Malrik Dunholm rules the Valeris prison with an iron fist—sometimes literally.",
+  "backstory_markdown": "site/pages/npcs/malrik_dunholm.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Malrik_Dunholm.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "npc_merribelle_fairburrow",
+  "type": "npc",
+  "name": "Merribelle Fairburrow",
+  "role": "Merribelle is the strategist and diplomat, often finding unconventional solutions to problems.",
+  "status": "alive",
+  "race": "Halfling",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "champion",
+    "halfling",
+    "player_safe"
+  ],
+  "public_summary": "Lighthearted and clever, Merribelle often uses humor to diffuse tension. Beneath her cheerful demeanor lies a sharp mind and unshakable resolve.",
+  "backstory_markdown": "site/pages/npcs/merribelle_fairburrow.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Merribelle_Fairburrow.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

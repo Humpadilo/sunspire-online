@@ -1,0 +1,27 @@
+{
+  "id": "npc_selene_varro",
+  "type": "npc",
+  "name": "Selene Varro",
+  "role": "Master of Whispers",
+  "status": "alive",
+  "race": "Human",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Selene Varro is a shadow in the court, a woman whose power is whispered, never spoken.",
+  "backstory_markdown": "site/pages/npcs/selene_varro.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Selene_Varro.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

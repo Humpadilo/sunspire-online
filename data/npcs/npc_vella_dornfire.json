@@ -1,0 +1,27 @@
+{
+  "id": "npc_vella_dornfire",
+  "type": "npc",
+  "name": "Vella Dornfire",
+  "role": "Smith",
+  "status": "alive",
+  "race": "Human",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Vella Dornfire is the youngest smith at the Iron Oath Armory, but what she lacks in years, she makes up for with raw talent and fiery determination.",
+  "backstory_markdown": "site/pages/npcs/vella_dornfire.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Vella_Dornfire.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

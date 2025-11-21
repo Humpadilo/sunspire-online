@@ -1,0 +1,25 @@
+{
+  "id": "npc_mruno_bars",
+  "type": "npc",
+  "name": "Mruno Bars",
+  "role": "Bard",
+  "status": "alive",
+  "race": "Tiefling",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "tiefling",
+    "player_safe"
+  ],
+  "public_summary": "Comes from the Deadlands, rushing away as fast as he can.",
+  "backstory_markdown": "site/pages/npcs/mruno_bars.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Mruno.png",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

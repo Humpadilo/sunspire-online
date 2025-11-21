@@ -1,0 +1,27 @@
+{
+  "id": "npc_brother_alden_raye",
+  "type": "npc",
+  "name": "Brother Alden Raye",
+  "role": "Brother",
+  "status": "alive",
+  "race": "Human",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "A human male, Brother Alden Raye is the youngest and most hopeful among the clergy, his faith rooted in mercy, redemption, and unwavering belief in the good of people.",
+  "backstory_markdown": "site/pages/npcs/brother_alden_raye.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Brother_Alden_Raye.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

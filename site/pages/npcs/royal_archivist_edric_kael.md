@@ -1,0 +1,6 @@
+# Royal Archivist Edric Kael
+
+Edric Kael is a quiet scholar who has watched the rise and fall of rulers from the depths of the royal archives. His half-elven heritage has granted him a long life, and his thinning white hair and tired blue eyes carry the weight of centuries of knowledge. He moves through the castle like a ghost, always present but rarely noticed, speaking in careful, measured tones. Unlike Chamberlain Auron, Edric does not seek power—he seeks preservation. He believes that knowledge is the only true constant, and he ensures that Valeris’ history is recorded with absolute truth, regardless of how it might inconvenience those in power. He maintains a strange, unspoken alliance with Selene Varro—her agents bring him whispers of forgotten texts and hidden knowledge, while he provides her with historical context for the power struggles she navigates. He respects Queen Lysara but does not entirely trust her, for all rulers seek to shape history in their own image. His closest intellectual rival is Archmage Vaelios of the Arcane Sanctum, whom he debates with regularly over the ethics of magic and forgotten lore. Though he rarely leaves the archives, he has been seen in conversation with Old Man Griggs, an oddity that has not gone unnoticed.
+
+## Notes
+A scholar who values historical truth above political convenience.

@@ -1,0 +1,6 @@
+# Mara "Ironspoon" Thaldrum
+
+Mara Thaldrum is a battle-hardened dwarf with a wild mane of auburn hair always tied back in a messy bun, her sharp tongue as deadly as her throwing knives. She runs the Gilded Gryphon’s kitchen with military precision, commanding her staff with the same no-nonsense authority that made her a feared warrior in her younger days. Her legendary stews and roasted meats are famous across Valeris, but gods help anyone who steps into her kitchen uninvited. While she adores her husband, Borin, their constant bickering is the stuff of tavern legend. She despises Sniv the Unlucky and has made it her personal mission to chase him out of the kitchen with whatever blunt object is within reach. She has a working friendship with Lina Farrow, who she sees as a capable and trustworthy ally in keeping the inn running. Despite her gruff exterior, she looks out for her staff like a mother bear, ensuring that Bert Nolley and Garruk Stonefist always have a place at her table. While she pretends not to care about city affairs, she keeps an ear open for anything that might threaten the inn, especially when Selene Varro’s agents come sniffing around.
+
+## Notes
+A battle-hardened dwarf who runs the kitchen with military precision.

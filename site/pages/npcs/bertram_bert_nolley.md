@@ -1,0 +1,6 @@
+# Bertram "Bert" Nolley
+
+Bert Nolley is a grizzled, no-nonsense bartender with a thick beard, piercing blue eyes, and a perpetual scowl that hides a surprising amount of patience. He’s been pouring drinks at the Gilded Gryphon for longer than most patrons have been alive, and in that time, he’s seen it all—fights, conspiracies, romances, and outright stupidity. His rule is simple: pay your tab, don’t start trouble, and don’t whine about the house rules. While he acts like he hates Sniv the Unlucky, constantly grumbling about throwing the little menace out, he always makes sure the goblin gets an extra splash of ale in his cup. He and Lina Farrow share an unspoken camaraderie, both keeping the bar running while dealing with the ever-growing number of "personalities" that pass through. Bert trusts Garruk Stonefist to handle security, though he takes a special pleasure in watching the half-orc throw out troublemakers. Despite his gruff exterior, Bert is fiercely loyal to Borin and Mara, considering them more family than employers. He has a distaste for city officials like Magister Halvar Greythorn, preferring to keep politics out of his bar—though he listens when necessary.
+
+## Notes
+A seasoned bartender who has seen it all, running the bar with a no-nonsense attitude.

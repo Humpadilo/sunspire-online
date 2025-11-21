@@ -1,0 +1,25 @@
+{
+  "id": "npc_valen_silverpalm",
+  "type": "npc",
+  "name": "Valen Silverpalm",
+  "role": "Monk",
+  "status": "alive",
+  "race": "Half-Elf",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "half-elf",
+    "player_safe"
+  ],
+  "public_summary": "A wanderer by birth, Valen Silverpalm was born to an elven mother and human father who were nomadic traders.",
+  "backstory_markdown": "site/pages/npcs/valen_silverpalm.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Valen.png",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

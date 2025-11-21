@@ -1,0 +1,27 @@
+{
+  "id": "npc_lina_farrow",
+  "type": "npc",
+  "name": "Lina Farrow",
+  "role": "Barmaid",
+  "status": "alive",
+  "race": "Human",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Lina Farrow is the heart of the Gilded Gryphon, a lively, sharp-witted barmaid with shoulder-length auburn hair and hazel eyes that sparkle with mischief.",
+  "backstory_markdown": "site/pages/npcs/lina_farrow.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Lina_Farrow.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

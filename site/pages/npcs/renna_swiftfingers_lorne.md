@@ -1,0 +1,6 @@
+# Renna "Swiftfingers" Lorne
+
+Renna Lorne moves through the Market District like a shadow, her sleek black fur blending into the crowded streets as she slips between merchants and guards alike. With piercing golden eyes and an ever-present smirk, she carries herself with effortless confidence, always one step ahead of those who seek to catch her. While officially, she’s nothing more than a trader of "acquired goods," those in the know recognize her as the Market District’s most elusive pickpocket and informant. She has a complicated relationship with Market Overseer Gerrold Dunn—he knows she’s a criminal, but she keeps her dealings just subtle enough to avoid his wrath. She considers Pip Thistledown an amusing distraction, often making bets with him over who can uncover the juiciest piece of gossip. Though she and Sniv the Unlucky operate in similar circles, she views him as a reckless fool, more likely to get caught than make a proper profit. She sells information to both the highest bidder and those she deems worthy, occasionally assisting Selene Varro’s network when the price is right. While she rarely trusts anyone, she holds a deep-seated respect for Durnik "The Scar" Vale, knowing that even in a city full of deception, some men keep their word.
+
+## Notes
+A sly tabaxi pickpocket and informant, always slipping between the cracks.

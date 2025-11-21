@@ -1,0 +1,6 @@
+# Queen Lysara
+
+Queen Lysara is the unshakable ruler of Valeris, a woman of poise and ruthless pragmatism. With piercing emerald eyes and golden hair woven with silver, she radiates both wisdom and quiet authority. Her rule is not just defined by lineage but by sheer force of will—she has kept Valeris strong through war, diplomacy, and cold calculation. Though she presents herself as the kingdom’s benevolent protector, she knows that power must be maintained through careful manipulation, strategic alliances, and, when necessary, force. She relies on Captain Darian Veldrin to safeguard her reign but remains wary of the power he wields within the Iron Guard. Chamberlain Auron ensures the court remains functional, though she is well aware that his careful management of noble factions also serves his own interests. Selene Varro, her Master of Whispers, is indispensable, yet Lysara never forgets that spies have their own ambitions. She keeps a close eye on Elyssa Dorne, the noblewoman whose growing influence in Valeris, under the guise of philanthropy, could shift the balance of power if left unchecked. Queen Lysara plays the long game, ensuring that while others maneuver for influence, she always remains one step ahead.
+
+## Notes
+A pragmatic ruler, skilled in politics and strategy, balancing power through manipulation and force.

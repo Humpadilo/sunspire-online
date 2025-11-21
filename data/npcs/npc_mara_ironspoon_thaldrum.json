@@ -1,0 +1,27 @@
+{
+  "id": "npc_mara_ironspoon_thaldrum",
+  "type": "npc",
+  "name": "Mara \"Ironspoon\" Thaldrum",
+  "role": "Head Chef",
+  "status": "alive",
+  "race": "Dwarf",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "dwarf",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Mara Thaldrum is a battle-hardened dwarf with a wild mane of auburn hair always tied back in a messy bun, her sharp tongue as deadly as her throwing knives.",
+  "backstory_markdown": "site/pages/npcs/mara_ironspoon_thaldrum.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Mara_Ironspoon_Thaldrum.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "npc_garruk_stonefist",
+  "type": "npc",
+  "name": "Garruk Stonefist",
+  "role": "Bouncer",
+  "status": "alive",
+  "race": "Half-Orc",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "half-orc",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Garruk Stonefist is the Gilded Gryphon’s first and final line of defense, a hulking half-orc with gray-green skin, thick tusks, and a stare that could freeze a charging ogre.",
+  "backstory_markdown": "site/pages/npcs/garruk_stonefist.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Garruk_Stonefist.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

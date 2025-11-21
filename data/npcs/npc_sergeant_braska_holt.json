@@ -1,0 +1,27 @@
+{
+  "id": "npc_sergeant_braska_holt",
+  "type": "npc",
+  "name": "Sergeant Braska Holt",
+  "role": "Sergeant",
+  "status": "alive",
+  "race": "Half-Orc",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "half-orc",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "A half-orc female, Sergeant Braska Holt is the enforcer of discipline within the ranks, the one who turns recruits into warriors through sweat, blood, and sheer willpower.",
+  "backstory_markdown": "site/pages/npcs/sergeant_braska_holt.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Sergeant_Braska_Holt.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Borin Thaldrum
+
+Borin Thaldrum is the gruff but steady-handed innkeeper of the Gilded Gryphon, a broad-shouldered dwarf with a thick auburn beard streaked with gray and a permanent scowl that barely hides the warmth beneath. A former adventurer, he traded his warhammer for a tankard and now rules his bar with the same unshakable discipline he once led his old company with. He has little tolerance for troublemakers, but he prefers to resolve disputes with a glare and a warning before resorting to fists. His wife, Mara "Ironspoon" Thaldrum, is the only person who can overrule him, and together they keep the inn running like a well-oiled machine. Borin has a soft spot for Sniv the Unlucky, much to Mara’s chagrin, letting the goblin linger in the inn when he has nowhere else to go—though he loudly complains about it the entire time. He respects Garruk Stonefist, trusting the half-orc to handle security, and relies on Bert Nolley to keep the drinks flowing. While he’s outwardly dismissive of politics, he has a working relationship with Magister Halvar Greythorn, occasionally passing along overheard whispers that could prove useful.
+
+## Notes
+A grizzled dwarf innkeeper who keeps the Gilded Gryphon running with discipline and care.

@@ -1,0 +1,27 @@
+{
+  "id": "npc_lazari_rat_fenwick",
+  "type": "npc",
+  "name": "Lazari \"Rat\" Fenwick",
+  "role": "Informant",
+  "status": "alive",
+  "race": "Goblin",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "goblin",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Lazari \"Rat\" Fenwick is a wiry, slippery goblin with twitchy fingers and an even twitchier mind.",
+  "backstory_markdown": "site/pages/npcs/lazari_rat_fenwick.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Lazari_Rat_Fenwick.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

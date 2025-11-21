@@ -1,0 +1,26 @@
+{
+  "id": "npc_gale",
+  "type": "npc",
+  "name": "Gale",
+  "role": "Wizard",
+  "status": "alive",
+  "race": "Human",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Allies: Tara the tressym is far more than Gale’s pet; she has been his only advisor and friend since he was brought low by the orb.",
+  "backstory_markdown": "site/pages/npcs/gale.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Gale.jpeg",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

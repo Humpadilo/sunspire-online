@@ -1,0 +1,26 @@
+{
+  "id": "npc_veyna_the_ghost_kael",
+  "type": "npc",
+  "name": "Veyna \"The Ghost\" Kael",
+  "role": "Assassin",
+  "status": "alive",
+  "race": "Drow",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "drow",
+    "player_safe"
+  ],
+  "public_summary": "Veyna \"The Ghost\" Kael is a drow assassin whose name is whispered with fear in Valeris’ underworld.",
+  "backstory_markdown": "site/pages/npcs/veyna_the_ghost_kael.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Veyna_The_Ghost_Kael.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Garruk Stonefist
+
+Garruk Stonefist is the Gilded Gryphon’s first and final line of defense, a hulking half-orc with gray-green skin, thick tusks, and a stare that could freeze a charging ogre. While most bouncers rely on shouting and brute force, Garruk doesn’t need to—one glance from him is usually enough to send troublemakers out the door without a fight. He has been working at the Gryphon for years, and in that time, he has become more than just a hired hand—he is family. Borin and Mara Thaldrum trust him implicitly, knowing that as long as he stands at the door, no one will threaten their inn. He tolerates Sniv the Unlucky, but only barely, knowing full well the goblin’s antics could spark a bar brawl at any moment. Despite his stoic nature, he enjoys watching the back-and-forth between Bert Nolley and Lina Farrow, though he rarely gets involved. He has little patience for politics but knows enough to recognize when someone from Selene Varro’s network is sniffing around. While he doesn’t care much for noble affairs, he keeps an eye on those who frequent the Gryphon, particularly Durnik "The Scar" Vale, knowing that the man’s presence is rarely a coincidence.
+
+## Notes
+A hulking half-orc who ensures no troublemakers enter the Gryphon.

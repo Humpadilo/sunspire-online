@@ -1,0 +1,27 @@
+{
+  "id": "npc_father_cassiel_dornhelm",
+  "type": "npc",
+  "name": "Father Cassiel Dornhelm",
+  "role": "Father",
+  "status": "alive",
+  "race": "Human",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "A human male, Father Cassiel Dornhelm is the unshakable leader of the Valeris Church, a man whose wisdom carries as much weight as his faith.",
+  "backstory_markdown": "site/pages/npcs/father_cassiel_dornhelm.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Father_Cassiel_Dornhelm.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

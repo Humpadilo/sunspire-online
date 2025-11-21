@@ -1,0 +1,27 @@
+{
+  "id": "npc_old_man_griggs",
+  "type": "npc",
+  "name": "Old Man Griggs",
+  "role": "Prophet",
+  "status": "alive",
+  "race": "Elf",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "elf",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "\"Old Man Griggs\" is a mystery in elven skin, a weathered elf who claims to remember things no living man should.",
+  "backstory_markdown": "site/pages/npcs/old_man_griggs.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Old_Man_Griggs.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

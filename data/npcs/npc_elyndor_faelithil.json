@@ -1,0 +1,26 @@
+{
+  "id": "npc_elyndor_faelithil",
+  "type": "npc",
+  "name": "Elyndor Faelithil",
+  "role": "Elyndor acts as the magical expert among the champions, providing strategic insight and powerful arcane defenses.",
+  "status": "alive",
+  "race": "Elf",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "champion",
+    "elf",
+    "player_safe"
+  ],
+  "public_summary": "Wise and contemplative, Elyndor often prefers observation over action but is decisive when necessary. He is a staunch believer in balance and the protection of nature.",
+  "backstory_markdown": "site/pages/npcs/elyndor_faelithil.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Elyndor_Faelithil.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Selene Varro
+
+Selene Varro is a shadow in the court, a woman whose power is whispered, never spoken. Her dark auburn hair is always hidden beneath a deep hood, and her pale blue-gray eyes hold the weight of too many secrets. As the Queen’s Master of Whispers, Selene controls an extensive network of spies, informants, and infiltrators, ensuring that nothing happens in Valeris without her knowledge. She speaks carefully, never revealing more than necessary, and her true motivations remain shrouded even from those she serves. Queen Lysara relies on her information, but trust is a fragile thing between rulers and spies. Captain Darian Veldrin keeps his distance, viewing her as a necessary evil, while Chamberlain Auron plays the delicate game of appearing cooperative while keeping his own secrets buried deep. Selene has long watched Magister Halvar Greythorn, knowing his rigid devotion to law makes him dangerous to those who operate in the shadows. Though she has no proof, she also suspects Old Man Griggs is more than a simple drunk—his ramblings have been too eerily accurate to be dismissed as mere madness. If there is one truth about Selene, it is that she serves only the balance of power, and she will remove anyone who disrupts it.
+
+## Notes
+A feared spymaster who operates in the shadows, ensuring no secret remains hidden.

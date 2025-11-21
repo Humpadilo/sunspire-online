@@ -1,0 +1,27 @@
+{
+  "id": "npc_general_garric_thornvale",
+  "type": "npc",
+  "name": "General Garric Thornvale",
+  "role": "General",
+  "status": "alive",
+  "race": "Human",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "A human male, General Garric Thornvale is the unwavering force behind Valeris’ military, a seasoned commander who has led men through war and lived to tell the tale.",
+  "backstory_markdown": "site/pages/npcs/general_garric_thornvale.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/General_Garric_Thornvale.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

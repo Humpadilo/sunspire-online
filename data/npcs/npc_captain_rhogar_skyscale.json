@@ -1,0 +1,26 @@
+{
+  "id": "npc_captain_rhogar_skyscale",
+  "type": "npc",
+  "name": "Captain Rhogar Skyscale",
+  "role": "Skyship Captain",
+  "status": "alive",
+  "race": "Dragonborn",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "dragonborn",
+    "player_safe"
+  ],
+  "public_summary": "Captain Rhogar Skyscale is a bronze dragonborn with a sharp grin, a sharper sword, and the sharpest wit in Valeris.",
+  "backstory_markdown": "site/pages/npcs/captain_rhogar_skyscale.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Captain_Rhogar_Skyscale.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

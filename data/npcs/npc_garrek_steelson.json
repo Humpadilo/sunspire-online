@@ -1,0 +1,27 @@
+{
+  "id": "npc_garrek_steelson",
+  "type": "npc",
+  "name": "Garrek Steelson",
+  "role": "Blacksmith",
+  "status": "alive",
+  "race": "Human",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Garrek Steelson is built like a war machine, his muscled frame a testament to years spent on the battlefield before an injury forced him to trade his sword for a hammer.",
+  "backstory_markdown": "site/pages/npcs/garrek_steelson.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Garrek_Steelson.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

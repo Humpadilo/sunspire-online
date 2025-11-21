@@ -1,0 +1,27 @@
+{
+  "id": "npc_queen_lysara",
+  "type": "npc",
+  "name": "Queen Lysara",
+  "role": "Queen of Valeris",
+  "status": "alive",
+  "race": "Human",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Queen Lysara is the unshakable ruler of Valeris, a woman of poise and ruthless pragmatism.",
+  "backstory_markdown": "site/pages/npcs/queen_lysara.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Queen_Lysara.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "npc_reese",
+  "type": "npc",
+  "name": "Reese",
+  "role": "Warlock",
+  "status": "mia",
+  "race": "Eladrin",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "eladrin",
+    "player_safe"
+  ],
+  "public_summary": "",
+  "backstory_markdown": "site/pages/npcs/reese.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Reese.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

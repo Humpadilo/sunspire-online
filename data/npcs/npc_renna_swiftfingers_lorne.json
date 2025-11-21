@@ -1,0 +1,27 @@
+{
+  "id": "npc_renna_swiftfingers_lorne",
+  "type": "npc",
+  "name": "Renna \"Swiftfingers\" Lorne",
+  "role": "Informant",
+  "status": "alive",
+  "race": "Tabaxi",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "tabaxi",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Renna Lorne moves through the Market District like a shadow, her sleek black fur blending into the crowded streets as she slips between merchants and guards alike.",
+  "backstory_markdown": "site/pages/npcs/renna_swiftfingers_lorne.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Renna_Swiftfingers_Lorne.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

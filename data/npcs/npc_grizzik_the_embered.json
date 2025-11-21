@@ -1,0 +1,25 @@
+{
+  "id": "npc_grizzik_the_embered",
+  "type": "npc",
+  "name": "Grizzik the Embered",
+  "role": "The wildcard and magical nuke of the party. Grizzik’s presence means the battlefield could shift at any moment — for better or worse.",
+  "race": "Goblin",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "champion",
+    "goblin",
+    "player_safe"
+  ],
+  "public_summary": "Unhinged, unpredictable, and delightfully chaotic.",
+  "backstory_markdown": "site/pages/npcs/grizzik_the_embered.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Grizzik_the_Embered.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

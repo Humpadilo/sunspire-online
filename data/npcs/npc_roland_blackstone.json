@@ -1,0 +1,25 @@
+{
+  "id": "npc_roland_blackstone",
+  "type": "npc",
+  "name": "Roland Blackstone",
+  "role": "Ranger",
+  "status": "alive",
+  "race": "Human",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "player_safe"
+  ],
+  "public_summary": "“Ashreach burned.",
+  "backstory_markdown": "site/pages/npcs/roland_blackstone.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Roland.png",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

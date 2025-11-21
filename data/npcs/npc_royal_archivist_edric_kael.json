@@ -1,0 +1,27 @@
+{
+  "id": "npc_royal_archivist_edric_kael",
+  "type": "npc",
+  "name": "Royal Archivist Edric Kael",
+  "role": "Royal Scholar",
+  "status": "alive",
+  "race": "Half-Elf",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "half-elf",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Edric Kael is a quiet scholar who has watched the rise and fall of rulers from the depths of the royal archives.",
+  "backstory_markdown": "site/pages/npcs/royal_archivist_edric_kael.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Royal_Archivist_Edric_Kael.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

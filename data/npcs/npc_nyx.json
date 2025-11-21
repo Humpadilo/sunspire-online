@@ -1,0 +1,27 @@
+{
+  "id": "npc_nyx",
+  "type": "npc",
+  "name": "Nyx",
+  "role": "Familiar",
+  "status": "alive",
+  "race": "Shadowy Familiar",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "shadowy familiar",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Nyx is an infuriatingly clever and endlessly smug shadowy owl-like creature that serves as Eldrin Starweave’s familiar, though \"serves\" is a generous term.",
+  "backstory_markdown": "site/pages/npcs/nyx.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Nyx.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

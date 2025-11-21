@@ -1,0 +1,25 @@
+{
+  "id": "npc_grenak_goateater",
+  "type": "npc",
+  "name": "Grenak Goateater",
+  "role": "Barbarian",
+  "status": "alive",
+  "race": "Orc",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "orc",
+    "player_safe"
+  ],
+  "public_summary": "Grenak hails from a lovely village settled on rolling hills with scattering boulders and sheep.",
+  "backstory_markdown": "site/pages/npcs/grenak_goateater.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Grenak.png",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

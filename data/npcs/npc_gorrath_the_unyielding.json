@@ -1,0 +1,25 @@
+{
+  "id": "npc_gorrath_the_unyielding",
+  "type": "npc",
+  "name": "Gorrath \"The Unyielding\"",
+  "role": "The party’s unbreakable frontline — a wall of muscle and willpower that no enemy gets past without bleeding for it.",
+  "race": "Orc",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "champion",
+    "orc",
+    "player_safe"
+  ],
+  "public_summary": "Grim, disciplined, and utterly resolute.",
+  "backstory_markdown": "site/pages/npcs/gorrath_the_unyielding.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Gorrath_The_Unyielding.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

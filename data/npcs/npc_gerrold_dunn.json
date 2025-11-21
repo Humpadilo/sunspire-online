@@ -1,0 +1,27 @@
+{
+  "id": "npc_gerrold_dunn",
+  "type": "npc",
+  "name": "Gerrold Dunn",
+  "role": "Market Overseer",
+  "status": "alive",
+  "race": "Orc",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "orc",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Gerrold Dunn looms over the Market District like an immovable force, his thick gray-green skin and scarred arms marking him as a man who has fought his way through life.",
+  "backstory_markdown": "site/pages/npcs/gerrold_dunn.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Gerrold_Dunn.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

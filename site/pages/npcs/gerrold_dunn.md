@@ -1,0 +1,6 @@
+# Gerrold Dunn
+
+Gerrold Dunn looms over the Market District like an immovable force, his thick gray-green skin and scarred arms marking him as a man who has fought his way through life. Dressed in reinforced leather with the sigil of Valeris pinned to his chest, he is both feared and respected, keeping the market running with ruthless efficiency. He has no patience for thieves, frauds, or those who think they can outwit him—though he tolerates some level of underhanded dealings so long as they don’t disrupt order. His greatest frustration is Sniv the Unlucky, who has turned con artistry into an art form and somehow always manages to avoid arrest. Gerrold despises the goblin and would lock him away in Dunholm’s Hold if he ever caught him red-handed. He views Renna "Swiftfingers" Lorne with suspicion, knowing she operates within his district but never having enough proof to move against her. His relationship with Pip Thistledown is begrudgingly tolerant; he respects the halfling’s ability to keep the public informed but wishes he would stop making his job more difficult. Though he disdains politics, he occasionally reports suspicious activity to Magister Halvar Greythorn, ensuring that no merchant or noble grows too powerful unchecked.
+
+## Notes
+A tough orc who ensures the market runs smoothly, keeping order and discipline.

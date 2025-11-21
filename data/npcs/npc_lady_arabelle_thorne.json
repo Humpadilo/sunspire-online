@@ -1,0 +1,26 @@
+{
+  "id": "npc_lady_arabelle_thorne",
+  "type": "npc",
+  "name": "Lady Arabelle Thorne",
+  "role": "Lady Arabelle represents strength and unity. She is often seen as the de facto leader of the champions, balancing diplomacy with action.",
+  "status": "alive",
+  "race": "Human",
+  "home_location_id": "loc_valeria_nation",
+  "tags": [
+    "champion",
+    "human",
+    "player_safe"
+  ],
+  "public_summary": "Pragmatic, decisive, and fiercely protective of her people. She has a stern demeanor but carries the weight of past decisions and the lives lost under her command during the infernal invasion.",
+  "backstory_markdown": "site/pages/npcs/lady_arabelle_thorne.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Lady_Arabelle_Thorne.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

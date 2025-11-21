@@ -1,0 +1,26 @@
+{
+  "id": "npc_thragar_ironfist",
+  "type": "npc",
+  "name": "Thragar Ironfist",
+  "role": "Thragar is the group’s craftsman and a formidable frontline defender, often acting as the moral compass in moments of doubt.",
+  "status": "alive",
+  "race": "Dwarf",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "champion",
+    "dwarf",
+    "player_safe"
+  ],
+  "public_summary": "Stoic and blunt, Thragar values action over words and has little patience for indecision. Beneath his gruff exterior lies a deep sense of loyalty and honor.",
+  "backstory_markdown": "site/pages/npcs/thragar_ironfist.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Thragar_Ironfist.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

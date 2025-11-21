@@ -1,0 +1,6 @@
+# Chamberlain Auron
+
+Chamberlain Auron is the silent architect of Valeris’ stability, a man whose power lies not in steel but in secrets. With silver hair always impeccably combed and sharp gray eyes that betray no emotion, he manages the kingdom’s bureaucracy with cold efficiency. He ensures the Queen’s decrees are enacted, the nobility remains in line, and that political dissent never reaches the point of crisis. Though publicly loyal to Queen Lysara, Auron serves Valeris itself, making decisions that sometimes circumvent royal authority for what he deems the greater good. His quiet influence frustrates Captain Darian Veldrin, who sees him as a man who manipulates lives without understanding the cost of blood. He maintains a professional yet cautious relationship with Selene Varro, knowing that the Master of Whispers sees more than she lets on. His true rivalry lies with Magister Halvar Greythorn, as both men see themselves as Valeris’ guiding hand, though they wield power through very different means. Elyssa Dorne has caught his attention as well—while her public works seem noble, Auron suspects she is playing a much deeper game, and he intends to find out exactly what it is before she gains too much influence.
+
+## Notes
+The kingdom’s silent power behind the throne, ensuring stability through calculated control.

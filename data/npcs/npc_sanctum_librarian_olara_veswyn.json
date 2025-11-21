@@ -1,0 +1,27 @@
+{
+  "id": "npc_sanctum_librarian_olara_veswyn",
+  "type": "npc",
+  "name": "Sanctum Librarian Olara Veswyn",
+  "role": "Librarian",
+  "status": "alive",
+  "race": "Human",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Olara Veswyn is the iron gatekeeper of the Arcane Sanctum’s vast archives, a woman whose presence commands obedience without raising her voice.",
+  "backstory_markdown": "site/pages/npcs/sanctum_librarian_olara_veswyn.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Sanctum_Librarian_Olara_Veswyn.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "npc_wilfred_willy_greaves",
+  "type": "npc",
+  "name": "Wilfred \"Willy\" Greaves",
+  "role": "Scout",
+  "status": "alive",
+  "race": "Halfling",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "halfling",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "A halfling male, Wilfred \"Willy\" Greaves is a scout, a spy, and a walking headache for every commanding officer above him.",
+  "backstory_markdown": "site/pages/npcs/wilfred_willy_greaves.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Wilfred_Willy_Greaves.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "npc_kaela_voss",
+  "type": "npc",
+  "name": "Kaela Voss",
+  "role": "Bounty Hunter",
+  "status": "alive",
+  "race": "Half-Orc",
+  "gender": "female",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "half-orc",
+    "player_safe"
+  ],
+  "public_summary": "Kaela Voss is a half-orc bounty hunter whose reputation in Valeris is equal parts legend and cautionary tale.",
+  "backstory_markdown": "site/pages/npcs/kaela_voss.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Kaela_Voss.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

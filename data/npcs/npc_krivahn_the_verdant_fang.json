@@ -1,0 +1,26 @@
+{
+  "id": "npc_krivahn_the_verdant_fang",
+  "type": "npc",
+  "name": "Krivahn \"The Verdant Fang\"",
+  "role": "Krivahn is the guardian of nature within the group, blending raw strength with shamanic wisdom.",
+  "status": "alive",
+  "race": "Lizardfolk",
+  "home_location_id": "loc_mireholm_nation",
+  "tags": [
+    "champion",
+    "lizardfolk",
+    "player_safe"
+  ],
+  "public_summary": "Stoic and deeply spiritual, Krivahn is a protector of nature and balance. She speaks only when necessary, but her words carry weight",
+  "backstory_markdown": "site/pages/npcs/krivahn_the_verdant_fang.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Krivahn_The_Verdant_Fang.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

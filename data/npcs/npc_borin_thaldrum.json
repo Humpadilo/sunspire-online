@@ -1,0 +1,27 @@
+{
+  "id": "npc_borin_thaldrum",
+  "type": "npc",
+  "name": "Borin Thaldrum",
+  "role": "Innkeeper",
+  "status": "alive",
+  "race": "Dwarf",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "dwarf",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Borin Thaldrum is the gruff but steady-handed innkeeper of the Gilded Gryphon, a broad-shouldered dwarf with a thick auburn beard streaked with gray and a permanent scowl that barely hides the warmth beneath.",
+  "backstory_markdown": "site/pages/npcs/borin_thaldrum.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Borin_Thaldrum.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

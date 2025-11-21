@@ -1,0 +1,27 @@
+{
+  "id": "npc_archmage_vaelios",
+  "type": "npc",
+  "name": "Archmage Vaelios",
+  "role": "Archmage",
+  "status": "alive",
+  "race": "High Elf",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "high elf",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Archmage Vaelios is the unchallenged master of the Arcane Sanctum, a figure of ageless wisdom and barely restrained power.",
+  "backstory_markdown": "site/pages/npcs/archmage_vaelios.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Archmage_Vaelios.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

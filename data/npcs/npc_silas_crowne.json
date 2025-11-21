@@ -1,0 +1,27 @@
+{
+  "id": "npc_silas_crowne",
+  "type": "npc",
+  "name": "Silas Crowne",
+  "role": "Rogue",
+  "status": "alive",
+  "race": "Human",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Silas Crowne is a smooth-talking human rogue who deals in deception like a gambler deals cards—effortlessly and always with a winning hand.",
+  "backstory_markdown": "site/pages/npcs/silas_crowne.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Silas_Crowne.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

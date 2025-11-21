@@ -1,0 +1,27 @@
+{
+  "id": "npc_rivak_the_hollow",
+  "type": "npc",
+  "name": "Rivak the Hollow",
+  "role": "Supplier",
+  "status": "alive",
+  "race": "Tiefling",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "tiefling",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Rivak the Hollow is a whisper of a man, his deep violet skin and curling black horns giving him an eerie, almost unnatural presence.",
+  "backstory_markdown": "site/pages/npcs/rivak_the_hollow.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Rivak_the_Hollow.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

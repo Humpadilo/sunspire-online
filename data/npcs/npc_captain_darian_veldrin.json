@@ -1,0 +1,27 @@
+{
+  "id": "npc_captain_darian_veldrin",
+  "type": "npc",
+  "name": "Captain Darian Veldrin",
+  "role": "Captain of the Iron Guard",
+  "status": "alive",
+  "race": "Human",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Captain Darian Veldrin is the sword and shield of Valeris, a hardened soldier turned commander of the Iron Guard.",
+  "backstory_markdown": "site/pages/npcs/captain_darian_veldrin.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Captain_Darian_Veldrin.jpg",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

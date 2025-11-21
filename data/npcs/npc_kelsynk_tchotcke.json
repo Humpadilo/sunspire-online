@@ -1,0 +1,26 @@
+{
+  "id": "npc_kelsynk_tchotcke",
+  "type": "npc",
+  "name": "Kelsynk Tchotcke",
+  "role": "Artificer",
+  "status": "alive",
+  "race": "Goblin",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "goblin",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Kelsynk is a resourceful artificer, using his knack for tinkering to craft gadgets and contraptions from the wreckage of the world around him.",
+  "backstory_markdown": "site/pages/npcs/kelsynk_tchotcke.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Kelsynck.jpg",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "npc_azrul",
+  "type": "npc",
+  "name": "Azrul",
+  "role": "Cleric",
+  "status": "alive",
+  "race": "Elf",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "elf",
+    "player_safe"
+  ],
+  "public_summary": "Azrul was a Chaplain for the Valarian Guard and was friends with Captain Rhogar Skyscale. He left the Valarian Guard and took one of their Airships.",
+  "backstory_markdown": "site/pages/npcs/azrul.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Azrul.jpeg",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

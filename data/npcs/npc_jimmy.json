@@ -1,0 +1,25 @@
+{
+  "id": "npc_jimmy",
+  "type": "npc",
+  "name": "Jimmy",
+  "role": "Warlock",
+  "status": "alive",
+  "race": "Human",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "He is alittle boy. Has a secret friend, Timmy that is a shadowed entity that only comes out when Jimmy needs help",
+  "backstory_markdown": "site/pages/npcs/jimmy.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

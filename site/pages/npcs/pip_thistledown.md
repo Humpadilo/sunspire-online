@@ -1,0 +1,6 @@
+# Pip Thistledown
+
+Pip Thistledown is a whirlwind of words, energy, and unrelenting enthusiasm, his voice carrying across the bustling market square like a clarion call. Barely reaching the waists of most Valerians, his curly chestnut hair bounces as he dashes between stalls, waving parchment and shouting the latest decrees, rumors, and scandalous gossip. Despite his boisterous nature, Pip is sharper than he seems—he listens as much as he speaks, gathering information that often finds its way into the hands of those willing to pay. He has an uneasy relationship with Market Overseer Gerrold Dunn, who finds him obnoxious but begrudgingly useful when enforcing new laws. Pip, in turn, enjoys needling the gruff orc, exaggerating news just enough to make the overseer’s job harder. He and Renna "Swiftfingers" Lorne have a friendly rivalry, often competing to see who can uncover the most valuable secrets. While he feigns innocence, Pip is not above selling information to Selene Varro’s network, though he takes great care to ensure his dealings don’t get him into trouble. Despite his knack for avoiding conflict, he’s been known to cause problems for Sniv the Unlucky, loudly declaring his latest scam to the entire square just to see the goblin scramble.
+
+## Notes
+A whirlwind of words, delivering gossip and rumors throughout the market.

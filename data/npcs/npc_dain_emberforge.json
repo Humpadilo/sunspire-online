@@ -1,0 +1,27 @@
+{
+  "id": "npc_dain_emberforge",
+  "type": "npc",
+  "name": "Dain Emberforge",
+  "role": "Master Blacksmith",
+  "status": "alive",
+  "race": "Dwarf",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "dwarf",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Dain Emberforge is a broad-shouldered, grizzled dwarf whose very presence commands respect.",
+  "backstory_markdown": "site/pages/npcs/dain_emberforge.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Dain_Emberforge.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}

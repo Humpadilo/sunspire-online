@@ -1,0 +1,27 @@
+{
+  "id": "npc_magister_halvar_greythorn",
+  "type": "npc",
+  "name": "Magister Halvar Greythorn",
+  "role": "Magistrate",
+  "status": "alive",
+  "race": "Human",
+  "gender": "male",
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "human",
+    "eldenhold",
+    "player_safe"
+  ],
+  "public_summary": "Magister Halvar Greythorn is a human magistrate whose presence in Valeris is as unyielding as the laws he enforces.",
+  "backstory_markdown": "site/pages/npcs/magister_halvar_greythorn.md",
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+  "image_path": "site/assets/images/npcs/Magister_Halvar_Greythorn.webp",
+  "source_refs": [
+    {
+      "kind": "import_queue_csv",
+      "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv"
+    }
+  ]
+}
