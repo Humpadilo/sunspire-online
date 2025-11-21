@@ -1,0 +1,34 @@
+{
+  "id": "npc_sniv_the_unlucky",
+  "type": "npc",
+  "name": "Sniv the Unlucky",
+  "role": "gambler / scammer",
+  "status": "alive",
+  "race": "goblin",
+  "gender": "male",
+
+  "home_location_id": "loc_eldenhold_city",
+  "tags": [
+    "goblin",
+    "gambler",
+    "scammer",
+    "underworld",
+    "comic_relief",
+    "eldenhold",
+    "btdi",
+    "player_safe"
+  ],
+
+  "public_summary": "A notoriously unlucky goblin gambler who survives on charm, petty scams, and an impressive ability to escape consequences. Sniv is a familiar face in Eldenhold’s seedier corners, always one bad bet away from disaster.",
+  "backstory_markdown": "site/pages/npcs/sniv_the_unlucky.md",
+
+  "faction_ids": [],
+  "story_hook_ids": [],
+  "related_npc_ids": [],
+
+  "image_path": "site/assets/images/npcs/Sniv_the_Unlucky.webp",
+
+  "source_refs": [
+    { "kind": "import_queue_csv", "ref": "import_queue/npcs/valeria_eldenhold/Eldenhold_NPC.csv" }
+  ]
+}
