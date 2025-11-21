@@ -8,6 +8,30 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": "331,700,460,773",
-    "Map": "Karak Thul"
+    "Map": "Karak Thul",
+    "id": "loc_karak_thul_nation",
+    "type": "location",
+    "name": "Karak Thul",
+    "aliases": [
+      "Karak Thûl",
+      "Karak Thûl: The Dwarven Mountains",
+      "Karak-Thul"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "Outsiders talk too much, trust too easy. Dwarves think first, act second. Honor the forge, respect hard work? Might earn a place at the table. Think dwarves slow? Good. Gives us time to do things right.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   }
 ]

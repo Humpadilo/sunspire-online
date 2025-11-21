@@ -1,0 +1,33 @@
+[
+  {
+    "id": "loc_sunspire_world",
+    "type": "location",
+    "name": "Sunspire",
+    "aliases": [],
+    "category": "world",
+    "region": null,
+    "parent_location_id": null,
+    "map_id": "Sunspire",
+    "tags": [
+      "world",
+      "player_safe"
+    ],
+    "summary": "The world of Sunspire, containing all known nations, regions, cities, and sites.",
+    "detail_markdown": "site/pages/locations/sunspire_world.md",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": [],
+    "NameEntity_Name": "Sunspire",
+    "Category": "World",
+    "Description": "Top-level container for all public nations and regions in the Sunspire setting.",
+    "Association": null,
+    "First_Mention": null,
+    "Related_Session": null,
+    "Tags": null,
+    "Bounds": null,
+    "Map": "Sunspire"
+  }
+]

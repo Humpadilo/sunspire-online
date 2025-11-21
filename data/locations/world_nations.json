@@ -72,7 +72,31 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": "857,859,1000,958",
-    "Map": "Sunspire"
+    "Map": "Sunspire",
+    "id": "loc_xorath_kul_nation",
+    "type": "location",
+    "name": "Xorath Kul",
+    "aliases": [
+      "Xorath-Kul",
+      "Xorath’Kul",
+      "Xorath’Kul: The Underdark"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "The Underdark views surface dwellers with suspicion but sees value in trade and alliances when it serves their interests.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   },
   {
     "NameEntity_Name": "Skraggmar: The Goblin Wastelands",
@@ -116,7 +140,36 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": "164,292,738,432",
-    "Map": "Sunspire"
+    "Map": "Sunspire",
+    "id": "loc_thra_zul_nation",
+    "type": "location",
+    "name": "Thra Zul",
+    "aliases": [
+      "Thra-Zhul",
+      "Thra-Zul",
+      "Thrazhul",
+      "Thrazul",
+      "Thra’Zhul",
+      "Thra’Zhul: The Orcish Badlands",
+      "Thra’Zul",
+      "Thra’Zul: The Orcish Badlands"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "Weak fear orcs. Let them. Strength earns respect. Stand firm, orc fight beside you. Show fear, orc tramples you. Treat orc as beast, you find a monster.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   },
   {
     "NameEntity_Name": "Mireholm: The Beastfolk Swamps",
@@ -160,7 +213,31 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": "331,700,460,773",
-    "Map": "Karak Thul"
+    "Map": "Karak Thul",
+    "id": "loc_karak_thul_nation",
+    "type": "location",
+    "name": "Karak Thul",
+    "aliases": [
+      "Karak Thûl",
+      "Karak Thûl: The Dwarven Mountains",
+      "Karak-Thul"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "Outsiders talk too much, trust too easy. Dwarves think first, act second. Honor the forge, respect hard work? Might earn a place at the table. Think dwarves slow? Good. Gives us time to do things right.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   },
   {
     "NameEntity_Name": "Sylvara: The Elven Forests",

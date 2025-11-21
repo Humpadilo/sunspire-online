@@ -72,7 +72,27 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": null,
-    "Map": "Mireholm"
+    "Map": "Mireholm",
+    "id": "loc_gravenhollow_swamp_alter_site",
+    "type": "location",
+    "name": "Swamp Alter",
+    "aliases": [],
+    "category": "site",
+    "region": "Mireholm",
+    "parent_location_id": "loc_gravenhollow_city",
+    "map_id": "Mireholm",
+    "tags": [
+      "player_safe",
+      "site"
+    ],
+    "summary": "",
+    "detail_markdown": "site/pages/locations/gravenhollow_swamp_alter_site.md",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   },
   {
     "NameEntity_Name": "Swamp",
@@ -83,7 +103,27 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": null,
-    "Map": "Mireholm"
+    "Map": "Mireholm",
+    "id": "loc_gravenhollow_swamp_site",
+    "type": "location",
+    "name": "Swamp",
+    "aliases": [],
+    "category": "site",
+    "region": "Mireholm",
+    "parent_location_id": "loc_gravenhollow_city",
+    "map_id": "Mireholm",
+    "tags": [
+      "player_safe",
+      "site"
+    ],
+    "summary": "",
+    "detail_markdown": "site/pages/locations/gravenhollow_swamp_site.md",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   },
   {
     "NameEntity_Name": "Jollow Fang",
@@ -94,6 +134,26 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": null,
-    "Map": "Mireholm"
+    "Map": "Mireholm",
+    "id": "loc_gravenhollow_jollow_fang_site",
+    "type": "location",
+    "name": "Jollow Fang",
+    "aliases": [],
+    "category": "site",
+    "region": "Mireholm",
+    "parent_location_id": "loc_gravenhollow_city",
+    "map_id": "Mireholm",
+    "tags": [
+      "player_safe",
+      "site"
+    ],
+    "summary": "",
+    "detail_markdown": "site/pages/locations/gravenhollow_jollow_fang_site.md",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   }
 ]

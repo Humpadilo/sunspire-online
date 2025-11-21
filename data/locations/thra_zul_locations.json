@@ -8,6 +8,35 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": "164,292,738,432",
-    "Map": "Sunspire"
+    "Map": "Sunspire",
+    "id": "loc_thra_zul_nation",
+    "type": "location",
+    "name": "Thra Zul",
+    "aliases": [
+      "Thra-Zhul",
+      "Thra-Zul",
+      "Thrazhul",
+      "Thrazul",
+      "Thra’Zhul",
+      "Thra’Zhul: The Orcish Badlands",
+      "Thra’Zul",
+      "Thra’Zul: The Orcish Badlands"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "Weak fear orcs. Let them. Strength earns respect. Stand firm, orc fight beside you. Show fear, orc tramples you. Treat orc as beast, you find a monster.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   }
 ]

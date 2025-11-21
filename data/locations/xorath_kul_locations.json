@@ -8,6 +8,30 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": "857,859,1000,958",
-    "Map": "Sunspire"
+    "Map": "Sunspire",
+    "id": "loc_xorath_kul_nation",
+    "type": "location",
+    "name": "Xorath Kul",
+    "aliases": [
+      "Xorath-Kul",
+      "Xorath’Kul",
+      "Xorath’Kul: The Underdark"
+    ],
+    "category": "nation",
+    "region": "Sunspire World",
+    "parent_location_id": "loc_sunspire_world",
+    "map_id": "Sunspire",
+    "tags": [
+      "nation",
+      "player_safe"
+    ],
+    "summary": "The Underdark views surface dwellers with suspicion but sees value in trade and alliances when it serves their interests.",
+    "detail_markdown": "",
+    "faction_ids": [],
+    "related_npc_ids": [],
+    "story_ids": [],
+    "session_ids": [],
+    "first_mentioned_session": null,
+    "source_refs": []
   }
 ]
