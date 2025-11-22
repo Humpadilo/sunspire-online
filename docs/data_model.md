@@ -68,51 +68,116 @@ The private DM vault (`D:\Tracy`) is **not** covered here.
 
 ## 2. Folder Layout (Public Repo)
 
-```text
-/ai/
-  prompts/
-  work_queue/
-  output/
-  logs/
+  /ai/
+    prompts/
+    work_queue/
+    output/
+    logs/
 
-/data/
-  locations/
-  npcs/
-  pcs/
-  factions/
-  stories/
-  sessions/
-  items/
-
-/import_queue/
-  locations/
-  npcs/
-    valeria_eldenhold/
-    mireholm/
-    sylvara/
-  sessions/
-  stories/
-
-/site/
-  assets/
-  pages/
+  /data/
     locations/
     npcs/
+    pcs/
     factions/
     stories/
     sessions/
     items/
 
-/docs/
-  README.md
-  data_model.md
-  file_index.md
-  world_hierarchy.md
-  ops/
-    command_reference.md
-  roadmap/
+  /import_queue/
+    locations/
+    npcs/
+      valeria_eldenhold/
+      mireholm/
+      sylvara/
+    sessions/
+    stories/
+
+  /site/
+    assets/
+    pages/
+      locations/
+      npcs/
+      factions/
+      stories/
+      sessions/
+      items/
+
+  /docs/
     README.md
-    Sunspire_Online_Roadmap.md
-    CHATGPT_Sunspire_Online_Roadmap.md
-    Step01_Repo_and_Structure.md
-    0_Roadmap_Sunspire_Pipeline.md
+    data_model.md
+    file_index.md
+    world_hierarchy.md
+    ops/
+      command_reference.md
+    roadmap/
+      README.md
+      Sunspire_Online_Roadmap.md
+      CHATGPT_Sunspire_Online_Roadmap.md
+      Step01_Repo_and_Structure.md
+      0_Roadmap_Sunspire_Pipeline.md
+
+
+## 3. Entity Schemas
+
+### Session
+
+Sessions are player-facing recaps of actual-play events.  
+Public repo stores summaries only; full transcripts stay private.
+
+**Required fields**
+- `id` – stable ID, e.g. `session_S01` (use S##, not decimals)
+- `type` – `"session"`
+- `session_number` – integer
+- `title`
+- `date` – fantasy calendar object (see below)
+- `summary_markdown` – path to player recap
+- `tags` – lowercase tag list
+
+**Recommended fields**
+- `arc` – e.g. `"Asmodeus"`
+- `nation`
+- `city`
+- `day_span` – `"1 day"`, `"3 days"`, `"2 weeks"`, etc.
+- `key_location_ids`
+- `key_npc_ids`
+- `podcast_url`
+- `source_refs`
+
+**Date format (fantasy calendar)**
+```json
+"date": {
+  "year": 20,
+  "season": "Summer",
+  "month": "Emberfall",
+  "start_day": 15,
+  "end_day": 15
+}
+
+### Example JSON
+
+{
+  "id": "session_S01",
+  "type": "session",
+  "session_number": 1,
+  "title": "Festival of Flame",
+  "date": {
+    "year": 20,
+    "season": "Summer",
+    "month": "Emberfall",
+    "start_day": 15,
+    "end_day": 15
+  },
+  "day_span": "1 day",
+  "arc": "Asmodeus",
+  "nation": "Valeria",
+  "city": "Eldenhold",
+  "summary_markdown": "site/pages/sessions/session_S01.md",
+  "podcast_url": "YOUR_LINK_HERE",
+  "key_location_ids": ["loc_eldenhold_city", "..."],
+  "key_npc_ids": ["npc_...", "..."],
+  "tags": ["festival", "intro_hook", "eldenhold_arc", "player_safe"],
+  "source_refs": [
+    {"kind": "transcript", "ref": "session01_mix.json"}
+  ]
+}
+
