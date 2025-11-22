@@ -32,7 +32,7 @@ Use these names and IDs in:
   - **Greenhollow** (nation)  
   - **Karak Thul** (nation)  
   - **Skraggmar** (nation)  
-  - **Thra Zhul** (nation)  
+  - **Thra Zul** (nation)  
   - **Xorath Kul** (nation)  
 
 Notes:
@@ -63,7 +63,7 @@ These are the canonical IDs and display names for use in JSON.
 | `loc_greenhollow_nation` | Greenhollow             | nation   | `loc_sunspire_world` (eventual) | – |
 | `loc_karak_thul_nation`  | Karak Thul              | nation   | `loc_sunspire_world` (eventual) | Sometimes written `Karak-Thul` |
 | `loc_skraggmar_nation`   | Skraggmar               | nation   | `loc_sunspire_world` (eventual) | – |
-| `loc_thra_zhul_nation`   | Thra Zhul               | nation   | `loc_sunspire_world` (eventual) | Sometimes written `Thrazhul` / `Thra-Zhul` |
+| `loc_thra_zul_nation`   | Thra Zhul               | nation   | `loc_sunspire_world` (eventual) | Sometimes written `Thrazul` / `Thra-Zul` |
 | `loc_xorath_kul_nation`  | Xorath Kul              | nation   | `loc_sunspire_world` (eventual) | Sometimes written `Xorath-Kul` |
 | `loc_big_titty_demon_island_region` | Big Titty Demon Island | region   | `loc_sunspire_world` (eventual) | Variants: `Big Tiddy Deamon Island` (Map), `Big Titty Island` |
 
