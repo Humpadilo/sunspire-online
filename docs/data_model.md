@@ -69,15 +69,32 @@ The private DM vault (`D:\Tracy`) is **not** covered here.
 ## 2. Folder Layout (Public Repo)
 
 ```text
+/ai/
+  prompts/
+  work_queue/
+  output/
+  logs/
+
 /data/
   locations/
   npcs/
+  pcs/
   factions/
   stories/
   sessions/
   items/
 
+/import_queue/
+  locations/
+  npcs/
+    valeria_eldenhold/
+    mireholm/
+    sylvara/
+  sessions/
+  stories/
+
 /site/
+  assets/
   pages/
     locations/
     npcs/
@@ -87,6 +104,15 @@ The private DM vault (`D:\Tracy`) is **not** covered here.
     items/
 
 /docs/
+  README.md
   data_model.md
-  migration_mapping.md
+  file_index.md
+  world_hierarchy.md
+  ops/
+    command_reference.md
   roadmap/
+    README.md
+    Sunspire_Online_Roadmap.md
+    CHATGPT_Sunspire_Online_Roadmap.md
+    Step01_Repo_and_Structure.md
+    0_Roadmap_Sunspire_Pipeline.md

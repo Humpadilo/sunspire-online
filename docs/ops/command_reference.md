@@ -183,6 +183,47 @@ git diff
 
 Review changes and commit when satisfied.
 
+#### Promote city sites (Eldenhold, Gravenhollow)
+
+All building-level locations in:
+
+- `data/locations/valeria_locations.json` → belong to Eldenhold  
+- `data/locations/mireholm_locations.json` → belong to Gravenhollow  
+
+To convert these "raw" building entries into proper `site` locations under their cities:
+
+```powershell
+cd D:\SunspireOnlinePublic
+python tools\promote_city_sites.py
+```
+
+This script:
+
+- Assigns IDs like `loc_eldenhold_<slug>_site` or `loc_gravenhollow_<slug>_site`
+- Sets `category = "site"` and `type = "location"`
+- Sets `parent_location_id` appropriately (`loc_eldenhold_city` / `loc_gravenhollow_city`)
+- Preserves legacy fields such as `NameEntity_Name`, `Bounds`, and `Map`
+
+---
+
+#### Validate all locations
+
+To check for structural issues (missing IDs, bad parents, invalid categories):
+
+```powershell
+cd D:\SunspireOnlinePublic
+python tools\validate_locations.py
+```
+
+The script reports:
+
+- **[FATAL]** – invalid JSON or unreadable files  
+- **[ERROR]** – missing IDs, invalid categories, bad parent IDs, etc.  
+- **[WARN]** – softer issues (missing map_id, missing region, etc.)  
+
+Run this after any large change to `data/locations/` to confirm consistency.
+
+
 ---
 
 ## 5. Git – Basic Workflow for This Repo

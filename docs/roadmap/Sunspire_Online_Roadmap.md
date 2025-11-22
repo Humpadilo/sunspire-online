@@ -51,7 +51,7 @@ Ready for Step 1
 ----------------------------
 ----------------------------
 
-# Step 1 – Create the Public GitHub Repo & Structure
+# Step 1 – Create the Public GitHub Repo & Structure- All Complete
 
 **Goal:**  
 Create a clean, public GitHub repository that will hold all *player-safe* Sunspire content: JSON data, Markdown lore, the public site, and roadmap docs.
@@ -291,7 +291,7 @@ None of this is required to finish Step 1, but they are nice add-ons after the b
 ----------------------------
 ----------------------------
 
-# Step 2 – Data Model & Tagging Overview
+# Step 2 – Data Model & Tagging Overview - Complete
 
 **Goal:**  
 Define a clear, AI-friendly data model for all Sunspire lore using JSON as the backbone, with Markdown for longer prose.
@@ -309,7 +309,7 @@ When Step 2 is done:
 * Future scripts and AI prompts can rely on this structure.
 
 
-# 2.2 – Core Principles of the Data Model
+# 2.2 – Core Principles of the Data Model - Complete
 
 The rules of the game:
 
@@ -342,7 +342,7 @@ The rules of the game:
 Stick to these principles and your AI life will be much easier.
 
 
-# 2.3 – Entity Types and Where They Live
+# 2.3 – Entity Types and Where They Live - Complete
 
 At minimum, support these entity types:
 
@@ -377,7 +377,7 @@ This way, type is reinforced both by:
 * filename and folder location
 
 
-# 2.4 – Example JSON: Location & NPC
+# 2.4 – Example JSON: Location & NPC - Complete
 
 These examples are templates. You or future scripts can tweak them, but they show the general idea.
 
@@ -436,7 +436,7 @@ Notes:
 * `story_hook_ids` can point to stories where this NPC plays a role.
 
 
-# 2.5 – Example JSON: Story & Session
+# 2.5 – Example JSON: Story & Session - Complete
 
 ## Example: Story / Vignette JSON
 
@@ -491,7 +491,7 @@ Notes:
 * You can keep full transcripts in private repos and only link summaries publicly.
 
 
-# 2.6 – Tagging Strategy & Taxonomy
+# 2.6 – Tagging Strategy & Taxonomy - Complete
 
 Tags are for:
 * Quick filtering
@@ -538,7 +538,7 @@ In the **public** repo, avoid `spoiler_heavy` content altogether.
 You can still tag things conceptually (`political_intrigue`, `court_drama`, etc.).
 
 
-# 2.7 – JSON vs Markdown: Who Does What?
+# 2.7 – JSON vs Markdown: Who Does What? - Complete
 
 **JSON is the index card.**  
 **Markdown is the full page.**
@@ -588,7 +588,7 @@ This lets:
 * The site render both cleanly
 
 
-# 2.8 – Minimum Required Fields per Type
+# 2.8 – Minimum Required Fields per Type - Complete
 
 These are the fields that should always exist.
 
@@ -653,7 +653,7 @@ These are the fields that should always exist.
 You can expand these later, but defining minimums now means your scripts and AI can treat all entities consistently.
 
 
-# 2.9 – Writing the Data Model Doc in the Repo
+# 2.9 – Writing the Data Model Doc in the Repo - Complete
 
 Once you’re happy with the patterns in this step, consolidate them into one master reference file inside the public repo, for example:
 
@@ -676,7 +676,7 @@ Treat `/docs/data_model.md` as canon. If something in practice drifts from it, e
 * Update the doc and then fix the data.
 
 
-# 2.10 – What to Ask the “Code AI” Chat For
+# 2.10 – What to Ask the “Code AI” Chat For - Complete
 
 Once this data model is agreed on, another chat can help you with tools to enforce and use it.
 
@@ -734,7 +734,7 @@ When Step 3 is done (or at least “good enough to move on”):
 * At least a subset of locations, NPCs, stories, and sessions are migrated and valid.
 
 
-# 3.2 – Identify Your Source Buckets
+# 3.2 – Identify Your Source Buckets - Complete
 
 From your existing `D:\Tracy` world, you have several major sources of lore:
 
@@ -760,10 +760,10 @@ Step 3 is not about migrating **everything at once**.
 It’s about migrating in controlled phases, starting with a core slice.
 
 
-3.3 – Phased Migration Strategy
+# 3.3 – Phased Migration Strategy - Complete
 Do not attempt to migrate the entire lore library in one go. That way lies madness.
 Instead, work in phases:
-Phase 1 – World Structure
+Phase 1 – World Structure - Complete
 ⦁	Core regions / nations
 ⦁	Main cities
 ⦁	A few key special locations (major dungeons, temples, hubs)
@@ -783,7 +783,7 @@ After these four phases, you’ll already have enough content to:
 ⦁	Iterate without drowning.
 
 
-# 3.4 – Define Mapping Rules from Source → Data Model
+# 3.4 – Define Mapping Rules from Source → Data Model - Complete
 
 Before you touch scripts, write down **how** each source type maps into your JSON/Markdown model.
 
@@ -824,7 +824,7 @@ Write these mapping rules into a doc in the public repo, e.g.:
 This becomes the contract for your conversion scripts.
 
 
-# 3.5 – Separating Player-Safe from Spoilers
+# 3.5 – Separating Player-Safe from Spoilers - Partial, NPC-safe is done
 
 **Critical rule:**  
 Do **not** blindly export all DM data into the public repo.
@@ -848,7 +848,7 @@ Strategies:
 Step 3 is an opportunity to **curate** as you migrate.
 
 
-3.6 – Always Start with a Small Sample
+# 3.6 – Always Start with a Small Sample - Complete for Phase 1
 For each source type, follow this pattern:
 1.	Pick 3–5 examples:
 ⦁	Locations
@@ -870,7 +870,7 @@ This way you avoid:
 ⦁	Writing automation for a structure you later decide you don’t like.
 
 
-# 3.7 – Using the “Code AI” to Build Conversion Scripts
+# 3.7 – Using the “Code AI” to Build Conversion Scripts- Complete
 
 Once you have:
 * A clear data model (Step 2)
@@ -894,7 +894,7 @@ Do this **per type**, for example:
 You can later merge logic if it makes sense, but per-type scripts are easier to debug.
 
 
-# 3.8 – Target Layout After Migration (Example)
+# 3.8 – Target Layout After Migration (Example) - Complete
 
 After running your first wave of converters, your public repo should begin to look like this:
 
@@ -939,7 +939,7 @@ This confirms:
 * You have enough content to start building the site and AI prompts in later steps.
 
 
-# 3.9 – Validate Migrated Data
+# 3.9 – Validate Migrated Data- Complete
 
 After generating initial JSON:
 
@@ -962,7 +962,7 @@ The goal is to end Step 3 with:
 * A small but **clean** slice of the world in the public repo.
 
 
-# 3.10 – “Done Enough” Criteria for Step 3
+# 3.10 – “Done Enough” Criteria for Step 3- Partial, because stories + sessions still pending
 
 You do **not** need to migrate all of Sunspire to move on to Step 4.
 
@@ -983,6 +983,9 @@ At that point, you’re ready to:
 * Build the **public site** around this foundation (Step 4).
 * Let future expansions add more content over time.
 
+- City-level sites for Eldenhold and Gravenhollow have been promoted from raw building entries into proper `site` locations with parent/region metadata.
+
+
 ----------------------------
 ----------------------------
 
@@ -999,8 +1002,29 @@ This step is about:
 * Basic static site structure.
 * Connecting the map to the site, even if it starts as a simple link.
 
+# 4.1 Dump repo tree (for reference upkeep)
 
-# 4.2 – Choose a Static Site Approach
+```powershell
+cd D:\SunspireOnlinePublic
+python tools\dump_repo_tree.py
+
+# Generates/refreshes a plain-text tree so reference docs don’t drift.
+
+# 4.2 Initialize public repo structure (one-time / repair)
+cd D:\SunspireOnlinePublic
+python tools\init_sunspire_public.py
+
+Creates required folders + .gitkeep files if anything gets nuked or cloned fresh.
+
+# 4.3 Location helpers
+
+tools/update_locations_schema.py
+tools/promote_city_sites.py
+tools/validate_locations.py
+
+---
+
+# 4.4 – Choose a Static Site Approach
 
 You want something:
 * Simple
@@ -1021,7 +1045,7 @@ For now, assume:
 You can refine the exact tool choice later with help from a coding-focused AI chat.
 
 
-# 4.3 – Basic Site Folder Structure
+# 4.5 – Basic Site Folder Structure
 
 In your public repo, flesh out `/site` like this:
 
@@ -1080,7 +1104,7 @@ The goal is:
 ⦁	Easy for you to extend later as more data migrates.
 
 
-# 4.5 – Binding JSON Data to Website Pages
+# 4.6 – Binding JSON Data to Website Pages
 
 You already decided in Step 2 that:
 * JSON files live under `/data`
@@ -1105,7 +1129,7 @@ Short term:
 * As you build tooling, you can move toward automatic generation.
 
 
-# 4.6 – Hooking Up the Interactive Map
+# 4.7 – Hooking Up the Interactive Map
 
 You already have the map engine and data in your `D:\Tracy\web` setup.
 
@@ -1129,7 +1153,7 @@ Starting with option (1) is perfectly fine:
 * You can embed later once you have a stable content slice.
 
 
-# 4.7 – GitHub Pages Setup (Conceptual)
+# 4.8 – GitHub Pages Setup (Conceptual)
 
 High-level outline for enabling GitHub Pages:
 
@@ -1149,7 +1173,7 @@ Your job in Step 4 is to:
 * Confirm that links, images, and `/pages` URLs work on the live site.
 
 
-# 4.8 – Minimum Viable Site
+# 4.9 – Minimum Viable Site
 
 For Step 4, you do **not** need a finished, pretty, fully-populated site.
 
@@ -1173,7 +1197,7 @@ The minimum bar:
 At that point, you have a **real**, public-facing Sunspire presence.
 
 
-# 4.9 – What to Ask the “Code AI” Chat For
+# 4.10 – What to Ask the “Code AI” Chat For
 
 When you’re ready to automate pieces of Step 4, a coding-oriented chat can help with:
 

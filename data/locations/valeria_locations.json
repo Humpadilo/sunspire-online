@@ -132,7 +132,7 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": null,
-    "Map": "Valeria",
+    "Map": "Eldenhold",
     "id": "loc_eldenhold_iron_oath_armory_site",
     "type": "location",
     "name": " Iron Oath Armory",
@@ -140,7 +140,7 @@
     "category": "site",
     "region": "Valeria",
     "parent_location_id": "loc_eldenhold_city",
-    "map_id": "Valeria",
+    "map_id": "Eldenhold",
     "tags": [
       "player_safe",
       "site"
@@ -287,7 +287,7 @@
     "Related_Session": null,
     "Tags": null,
     "Bounds": null,
-    "Map": "Valeria",
+    "Map": "Eldenhold",
     "id": "loc_eldenhold_valeria_castle_site",
     "type": "location",
     "name": "Valeria Castle",
@@ -295,7 +295,7 @@
     "category": "site",
     "region": "Valeria",
     "parent_location_id": "loc_eldenhold_city",
-    "map_id": "Valeria",
+    "map_id": "Eldenhold",
     "tags": [
       "player_safe",
       "site"

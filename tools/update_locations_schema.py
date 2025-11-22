@@ -15,7 +15,7 @@ LOCATION_FILES = [
     ROOT / "data" / "locations" / "greenhollow_locations.json",
     ROOT / "data" / "locations" / "karak_thul_locations.json",
     ROOT / "data" / "locations" / "skraggmar_locations.json",
-    ROOT / "data" / "locations" / "thra_zhul_locations.json",
+    ROOT / "data" / "locations" / "thra_zul_locations.json",
     ROOT / "data" / "locations" / "xorath_kul_locations.json",
     ROOT / "data" / "locations" / "big_titty_demon_island.json",
 ]
@@ -81,7 +81,11 @@ CANONICAL_LOCATIONS = {
     },
     "loc_karak_thul_nation": {
         "name": "Karak Thul",
-        "aliases": ["Karak-Thul"],
+        "aliases": [
+            "Karak-Thul",
+            "Karak Thûl",
+            "Karak Thûl: The Dwarven Mountains",
+        ],
         "category": "nation",
         "region": "Sunspire World",
         "parent": "loc_sunspire_world",
@@ -97,9 +101,18 @@ CANONICAL_LOCATIONS = {
         "map_id": "Sunspire",
         "tags": ["nation", "player_safe"],
     },
-    "loc_thra_zhul_nation": {
-        "name": "Thra Zhul",
-        "aliases": ["Thrazhul", "Thra-Zhul"],
+    "loc_thra_zul_nation": {
+        "name": "Thra Zul",
+        "aliases": [
+            "Thrazul",
+            "Thra-Zul",
+            "Thra’Zul",
+            "Thra’Zul: The Orcish Badlands",
+            "Thrazhul",
+            "Thra-Zhul",
+            "Thra’Zhul",
+            "Thra’Zhul: The Orcish Badlands",            
+        ],
         "category": "nation",
         "region": "Sunspire World",
         "parent": "loc_sunspire_world",
@@ -108,7 +121,11 @@ CANONICAL_LOCATIONS = {
     },
     "loc_xorath_kul_nation": {
         "name": "Xorath Kul",
-        "aliases": ["Xorath-Kul"],
+        "aliases": [
+            "Xorath-Kul",
+            "Xorath’Kul",
+            "Xorath’Kul: The Underdark",
+        ],
         "category": "nation",
         "region": "Sunspire World",
         "parent": "loc_sunspire_world",
