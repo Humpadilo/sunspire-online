@@ -1,0 +1,101 @@
+SunspireOnlinePublic
+├── ai
+│   ├── configs
+│   │   └── .gitkeep
+│   ├── logs
+│   │   └── .gitkeep
+│   ├── output
+│   │   └── .gitkeep
+│   ├── prompts
+│   │   └── .gitkeep
+│   ├── work_queue
+│   │   └── .gitkeep
+│   └── README.md
+├── data
+│   ├── factions
+│   │   ├── .gitkeep
+│   │   └── valeris_factions.json
+│   ├── items
+│   │   └── .gitkeep
+│   ├── locations
+│   │   ├── .gitkeep
+│   │   ├── big_titty_demon_island.json
+│   │   ├── deadlands_locations.json
+│   │   ├── greenhollow_locations.json
+│   │   ├── karak_thul_locations.json
+│   │   ├── mireholm_locations.json
+│   │   ├── skraggmar_locations.json
+│   │   ├── sylvara_locations.json
+│   │   ├── thra_zul_locations.json
+│   │   ├── valeria_locations.json
+│   │   ├── world_locations.json
+│   │   ├── world_nations.json
+│   │   └── xorath_kul_locations.json
+│   ├── npcs
+│   │   └── .gitkeep
+│   ├── pcs
+│   │   ├── Rhogar
+│   │   └── .gitkeep
+│   ├── sessions
+│   │   ├── .gitkeep
+│   │   └── main_campaign_sessions.json
+│   ├── stories
+│   │   └── .gitkeep
+│   └── README.md
+├── docs
+│   ├── file_inventory
+│   ├── ops
+│   │   ├── .gitkeep
+│   │   └── command_reference.md
+│   ├── roadmap
+│   │   ├── 0_Roadmap_Sunspire_Pipeline.md
+│   │   ├── CHATGPT_Sunspire_Online_Roadmap.md
+│   │   ├── README.md
+│   │   ├── Step01_Repo_and_Structure.md
+│   │   └── Sunspire_Online_Roadmap.md
+│   ├── data_model.md
+│   ├── file_index.md
+│   ├── README.md
+│   └── world_hierarchy.md
+├── import_queue
+│   ├── locations
+│   │   └── .gitkeep
+│   ├── npcs
+│   │   ├── mireholm
+│   │   │   └── .gitkeep
+│   │   ├── sylvara
+│   │   │   └── .gitkeep
+│   │   ├── valaria_eldenhold
+│   │   │   └── .gitkeep
+│   │   ├── valeria_eldenhold
+│   │   │   └── Eldenhold_NPC.csv
+│   │   └── .gitkeep
+│   ├── sessions
+│   │   └── .gitkeep
+│   ├── stories
+│   │   └── .gitkeep
+│   └── README.md
+├── site
+│   ├── assets
+│   │   └── .gitkeep
+│   ├── map
+│   ├── pages
+│   │   ├── factions
+│   │   │   └── .gitkeep
+│   │   ├── locations
+│   │   │   └── .gitkeep
+│   │   ├── npcs
+│   │   │   └── .gitkeep
+│   │   ├── sessions
+│   │   │   └── .gitkeep
+│   │   ├── stories
+│   │   │   └── .gitkeep
+│   │   └── .gitkeep
+│   └── README.md
+├── tools
+│   ├── dump_repo_tree.py
+│   ├── init_sunspire_public.py
+│   ├── promote_city_sites.py
+│   ├── update_locations_schema.py
+│   └── validate_locations.py
+└── README.md

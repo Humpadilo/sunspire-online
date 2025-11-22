@@ -1,0 +1,23 @@
+# --- Python / tooling noise ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# --- OS/editor junk ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Sunspire Online runtime/output (public side) ---
+ai/logs/
+ai/output/
+ai/work_queue/
+
+# If you later add AI scratch/temp dirs:
+ai/tmp/
+ai/cache/
